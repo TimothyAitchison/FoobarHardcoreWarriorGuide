@@ -1,0 +1,33 @@
+## Interface: 30400
+## Interface-Mainline: 90205
+## Interface-Wrath: 30400
+## Interface-Classic: 11403
+## Interface-BCC: 20504
+
+## Title: RXPGuides - Foobar's Warrior Guide
+## Notes: For Human Warrior Speedrunning
+## Author: Foobar
+## Version: 1.0
+
+## Dependencies: RXPGuides
+
+## Priest1-12.lua
+## Priest12-20.lua
+## Priest20-30.lua
+## Warrior1-12.lua
+## Warrior12-20.lua
+## Warrior20-30.lua
+## Warrior30-40.lua
+
+SUPERSAFE_Warrior_01-06_Northshire.lua
+SUPERSAFE_Warrior_06-10_Elwynn.lua
+SUPERSAFE_Warrior_10-12_LochModan.lua
+SUPERSAFE_Warrior_13-15_Darkshore.lua
+SUPERSAFE_Warrior_15-17_Westfall.lua
+SUPERSAFE_Warrior_17-18_Darkshore.lua
+SUPERSAFE_Warrior_19-20_Redridge.lua
+SUPERSAFE_Warrior_20-21_Darkshore.lua
+SUPERSAFE_Warrior_21-23_Ashenvale.lua
+SUPERSAFE_Warrior_23-24_Redridge.lua
+SUPERSAFE_Warrior_24-25_Duskwood.lua
+SUPERSAFE_Warrior_25-26_Wetlands.lua
